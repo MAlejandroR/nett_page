@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///var/www/ej/.idea/ej.iml" filepath="/var/www/ej/.idea/ej.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/inaem.iml" filepath="$PROJECT_DIR$/.idea/inaem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../industria4_0/.idea/industria4_0.iml" filepath="$PROJECT_DIR$/../industria4_0/.idea/industria4_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../staticSite/.idea/staticSite.iml" filepath="$PROJECT_DIR$/../staticSite/.idea/staticSite.iml" />
+    </modules>
+  </component>
+</project>
