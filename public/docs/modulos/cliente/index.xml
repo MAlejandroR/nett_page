@@ -54,7 +54,21 @@ OScar Gascón
 
 &lt;/span&gt;
 &lt;/p&gt;
-&lt;p&gt;Profesor externa del centro experto en desarrollo de sitios web.&lt;/p&gt;
+
+&lt;span class=&#34;font-weight-bold text-primary&#34;&gt;
+
+    &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Profesor externo del centro experto en desarrollo de sitios web.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Diseñador Web y Desarrollador PHP en Zaragoza&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/span&gt;
+
 &lt;h3 id=&#34;temario-general&#34;&gt;Temario general&lt;/h3&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-markmap&#34; data-lang=&#34;markmap&#34;&gt;# Contenidos
 ## Html
