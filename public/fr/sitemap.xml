@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://manuel.proyectosdwa.es/fr/categories/</loc>
+    <loc>http://proyectosdwa.es/manuel/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://manuel.proyectosdwa.es/en/categories/"
+                href="http://proyectosdwa.es/manuel/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://manuel.proyectosdwa.es/categories/"
+                href="http://proyectosdwa.es/manuel/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://manuel.proyectosdwa.es/fr/categories/"
+                href="http://proyectosdwa.es/manuel/fr/categories/"
                 />
   </url><url>
-    <loc>http://manuel.proyectosdwa.es/fr/</loc>
+    <loc>http://proyectosdwa.es/manuel/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://manuel.proyectosdwa.es/"
+                href="http://proyectosdwa.es/manuel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://manuel.proyectosdwa.es/en/"
+                href="http://proyectosdwa.es/manuel/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://manuel.proyectosdwa.es/fr/"
+                href="http://proyectosdwa.es/manuel/fr/"
                 />
   </url><url>
-    <loc>http://manuel.proyectosdwa.es/fr/tags/</loc>
+    <loc>http://proyectosdwa.es/manuel/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://manuel.proyectosdwa.es/en/tags/"
+                href="http://proyectosdwa.es/manuel/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://manuel.proyectosdwa.es/tags/"
+                href="http://proyectosdwa.es/manuel/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://manuel.proyectosdwa.es/fr/tags/"
+                href="http://proyectosdwa.es/manuel/fr/tags/"
                 />
   </url>
 </urlset>
